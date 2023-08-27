@@ -1,0 +1,39 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+    background-color: orange;
+    color: black;
+    font-size: 36px;
+    text-align: center;
+
+}
+
+h2 {
+    background-color: yellow;
+    color: black;
+    font-size: 24px;
+    display: block;
+
+}
+.direction {
+    text-align: center;
+}
+
+.index-pic {
+    width: 590px;
+    height: auto;
+    margin-top: auto;
+    display: inline;
+}
+
+
+.index-pic.latte {
+    margin-left: 50px;
+
+}
+
+.index-pic.cookies {
+    margin-right: 50px;
+}
